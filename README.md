@@ -1,5 +1,10 @@
 # UserCenter
 用户管理中心
 --------------------------------
-readme
-橙猫猫用户管理中心的git仓库
+##技术选型
+-前端
+  react
+  ant design pro
+-后端
+  springboot
+  
